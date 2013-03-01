@@ -252,7 +252,7 @@
         <jcr.version>2.0</jcr.version>
         <jackrabbit.jcr.tck.version>2.5.1</jackrabbit.jcr.tck.version>
         <jackrabbit.lucene.version>3.6.0</jackrabbit.lucene.version>
-        <jbossjta.version>4.16.2.Final</jbossjta.version>
+        <jbossjta.version>4.16.6.Final</jbossjta.version>
         <atomikos.version>3.8.0</atomikos.version>
         <picketbox.version>4.0.7.Final</picketbox.version>
         <byteman.version>1.5.1</byteman.version>
